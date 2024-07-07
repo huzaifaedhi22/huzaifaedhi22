@@ -6,7 +6,6 @@ I'm Huzaifa, a software engineer based in Dubai. I work as a full stack develope
 - 🌱 I’m currently learning Sveltekit
 - 👯 I’m looking to collaborate on Flutter and Svelte Projects
 - 💬 Ask me about Flutter
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/your-linkedin-here)
 - 😄 Fun fact: I've been told I'm funny!
 
 
