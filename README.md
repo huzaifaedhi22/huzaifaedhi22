@@ -10,10 +10,3 @@ I'm Huzaifa, a software engineer based in Germany. I work as a full stack develo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/huzaifa-ejaz22)
 
-
-
-### 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifaedhi22&layout=compact&theme=radical)
-
----
